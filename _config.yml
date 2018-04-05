@@ -17,7 +17,7 @@ markdown: kramdown
 title:       "Project BlueSquid"
 keywords:    "IOT, IIOT, Business Intelligence, BI, AI, Inteligencia Artificial"
 description: "Un sistema completo de hardware y software para monitoreo y posterior Analisis de datos."
-source_link: "https://www.mecatronica.pe"
+### source_link: "https://www.mecatronica.pe"
 favicon:     "img/project_bluesquid_icon.ico"
 touch_icon:  "img/project_bluesquid.jpg"
 google_analytics_key: UA-71804821-1 ## put YOUR key here to enable tracking! (blank to disable)
