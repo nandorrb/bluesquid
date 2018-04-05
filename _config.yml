@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "Project BlueSquid"
 keywords:    "IOT, IIOT, Business Intelligence, BI, AI, Inteligencia Artificial"
-description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+description: "Un sistema completo de hardware y software para monitoreo y posterior Analisis de datos."
 source_link: "https://www.mecatronica.pe"
 favicon:     "img/project_bluesquid_icon.ico"
 touch_icon:  "img/project_bluesquid.jpg"
